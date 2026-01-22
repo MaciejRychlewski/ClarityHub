@@ -6,8 +6,6 @@
 
 **Clarity Hub** is a centralized dashboard designed to combat notification fatigue. It aggregates streams from Slack, GitHub, Jira, and Calendars into a single view, using a **custom Priority Engine** to algorithmically sort noise from signal.
 
-![Dashboard Screenshot](path/to/your/screenshot.png)
-
 ## 🚀 Key Features
 
 * **Unified Ingestion:** Connects to multiple API sources (Slack, Jira, GitHub, Gmail) to pull disparate data streams.
@@ -39,7 +37,7 @@ frontend/
 
 1. Installation
 # Clone repository
-git clone [https://github.com/yourusername/clarity-hub.git](https://github.com/yourusername/clarity-hub.git)
+git clone [https://github.com/MaciejRychlewski/clarity-hub.git]
 cd clarity-hub
 
 # Install dependencies (if you have a requirements file)
