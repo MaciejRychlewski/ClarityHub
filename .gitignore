@@ -1,0 +1,19 @@
+# Python System Files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Mac OS Garbage
+.DS_Store
+
+# Secrets & Config
+.env
+
+# Local Data Store (Let users generate their own)
+backend/storage/notifications.json
+
+# IDE Settings (VS Code)
+.vscode/

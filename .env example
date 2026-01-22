@@ -1,0 +1,18 @@
+# === MODE SETTINGS ===
+# Set to True to use fake data (no API keys needed)
+# Set to False to use real integrations below
+DEMO_MODE=True
+
+# === SLACK INTEGRATION ===
+SLACK_BOT_TOKEN=xoxb-your-token-here
+
+# === GITHUB INTEGRATION ===
+# Generate at: https://github.com/settings/tokens (Classic)
+# Scopes needed: repo, notifications
+GITHUB_TOKEN=ghp_your_token_here
+
+# === JIRA INTEGRATION ===
+# Create token at: https://id.atlassian.com/manage-profile/security/api-tokens
+JIRA_DOMAIN=yourcompany  # (for yourcompany.atlassian.net)
+JIRA_EMAIL=your_email@example.com
+JIRA_API_TOKEN=your_jira_token_here

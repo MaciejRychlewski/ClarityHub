@@ -1,0 +1,950 @@
+[
+    {
+        "id": "d0551ba8-a13a-42ec-b612-b781f9b1ec7c",
+        "source": "jira",
+        "type": "message",
+        "title": "URGENT: Checkout 500 Error",
+        "content": "Users cannot pay. Sev-1 Incident.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T01:15:48.486369",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "e208430e-0196-4e73-bdc6-139f5982a0a9",
+        "source": "slack",
+        "type": "message",
+        "title": "CRITICAL: Production DB Down",
+        "content": "Database connection failed. Immediate action required.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T23:23:48.486385",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "7964d262-6d67-48a6-ba8f-8ecb6c371d29",
+        "source": "jira",
+        "type": "message",
+        "title": "URGENT: Checkout 500 Error",
+        "content": "Users cannot pay. Sev-1 Incident.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T23:02:48.486396",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "3e0488b8-78d2-42b9-894d-a80e9d377766",
+        "source": "slack",
+        "type": "message",
+        "title": "CRITICAL: Production DB Down",
+        "content": "Database connection failed. Immediate action required.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T21:32:48.486406",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "29260cf3-5fa8-47c1-b22d-e608581a5781",
+        "source": "jira",
+        "type": "message",
+        "title": "URGENT: Checkout 500 Error",
+        "content": "Users cannot pay. Sev-1 Incident.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T19:31:48.486410",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "191a221e-5498-44eb-9ecb-d9613a02723f",
+        "source": "jira",
+        "type": "message",
+        "title": "URGENT: Checkout 500 Error",
+        "content": "Users cannot pay. Sev-1 Incident.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T12:56:48.486389",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "b82fe3ce-5092-424c-904b-0f89810c11f0",
+        "source": "slack",
+        "type": "message",
+        "title": "CRITICAL: Production DB Down",
+        "content": "Database connection failed. Immediate action required.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T09:40:48.486356",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "ba77e161-355b-4173-8841-6afb24989400",
+        "source": "slack",
+        "type": "message",
+        "title": "CRITICAL: Production DB Down",
+        "content": "Database connection failed. Immediate action required.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T04:09:48.486400",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "2f72b2b2-a83e-4b14-b537-a06374f9a605",
+        "source": "jira",
+        "type": "message",
+        "title": "URGENT: Checkout 500 Error",
+        "content": "Users cannot pay. Sev-1 Incident.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T00:46:48.486403",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "77f4ce33-eccb-4fdd-a7dc-a2f7729dd533",
+        "source": "jira",
+        "type": "message",
+        "title": "URGENT: Checkout 500 Error",
+        "content": "Users cannot pay. Sev-1 Incident.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T22:50:48.486381",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "da04b8c2-9855-43ef-99da-1078994d3ef8",
+        "source": "slack",
+        "type": "message",
+        "title": "CRITICAL: Production DB Down",
+        "content": "Database connection failed. Immediate action required.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T17:47:48.486393",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "636d55d1-5023-4fcd-8026-d0d5813348ad",
+        "source": "slack",
+        "type": "message",
+        "title": "CRITICAL: Production DB Down",
+        "content": "Database connection failed. Immediate action required.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T17:17:48.486376",
+        "priority": "urgent",
+        "priority_score": 95,
+        "priority_reasons": [
+            "Critical Source Alert"
+        ]
+    },
+    {
+        "id": "8e4d6295-aa50-4a49-b68d-a6a5a594ee95",
+        "source": "gmail",
+        "type": "message",
+        "title": "Security Alert: New Login",
+        "content": "New login detected from unknown IP.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T01:38:48.486447",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "c45093d0-e57d-4455-8afe-a4b142a9bdc6",
+        "source": "gmail",
+        "type": "message",
+        "title": "Security Alert: New Login",
+        "content": "New login detected from unknown IP.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T23:22:48.486413",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "41329264-4343-471f-85f7-8a86e9d942ad",
+        "source": "github",
+        "type": "message",
+        "title": "Review Required: Auth API",
+        "content": "PR #1024 needs review before deployment.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T21:45:48.486437",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "05ca0c4f-a8f3-49f7-ba69-c043ccc74bbe",
+        "source": "github",
+        "type": "message",
+        "title": "Review Required: Auth API",
+        "content": "PR #1024 needs review before deployment.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T15:31:48.486451",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "8058a78f-693e-4fb2-a35e-8717f2bddebf",
+        "source": "gmail",
+        "type": "message",
+        "title": "Security Alert: New Login",
+        "content": "New login detected from unknown IP.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T10:19:48.486428",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "955aae4a-6ab7-437e-9b30-af01cf09083a",
+        "source": "github",
+        "type": "message",
+        "title": "Review Required: Auth API",
+        "content": "PR #1024 needs review before deployment.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T09:49:48.486431",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "08243c1e-736d-4fbf-a3ad-6c86a8919b82",
+        "source": "gmail",
+        "type": "message",
+        "title": "Security Alert: New Login",
+        "content": "New login detected from unknown IP.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T09:33:48.486421",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "88ce02c0-f1ab-4cab-80a5-fc1489d28ee4",
+        "source": "gmail",
+        "type": "message",
+        "title": "Security Alert: New Login",
+        "content": "New login detected from unknown IP.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T08:02:48.486434",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "25be40e9-0646-4738-b13e-86ad1b299d04",
+        "source": "github",
+        "type": "message",
+        "title": "Review Required: Auth API",
+        "content": "PR #1024 needs review before deployment.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T22:11:48.486424",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "35bc7086-ec4f-4380-9560-449b83974d0e",
+        "source": "gmail",
+        "type": "message",
+        "title": "Security Alert: New Login",
+        "content": "New login detected from unknown IP.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T12:33:48.486441",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "25dda702-28e6-414e-89f6-2311e825c7f8",
+        "source": "github",
+        "type": "message",
+        "title": "Review Required: Auth API",
+        "content": "PR #1024 needs review before deployment.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T12:15:48.486444",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "22882058-5f98-47c2-95d5-f0135d5b91ce",
+        "source": "github",
+        "type": "message",
+        "title": "Review Required: Auth API",
+        "content": "PR #1024 needs review before deployment.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T11:06:48.486417",
+        "priority": "high",
+        "priority_score": 80,
+        "priority_reasons": [
+            "High Importance Source"
+        ]
+    },
+    {
+        "id": "23c0adc7-7a94-454b-b29e-bd1bc35f700b",
+        "source": "calendar",
+        "type": "event",
+        "title": "Client Call",
+        "content": "Zoom Link",
+        "sender": {
+            "name": "Google Calendar",
+            "email": ""
+        },
+        "timestamp": "2026-01-25T01:45:48.486458",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "30d2aaaf-5ff1-4869-a0d6-c60ab1f90516",
+        "source": "calendar",
+        "type": "event",
+        "title": "Team Standup",
+        "content": "Zoom Link",
+        "sender": {
+            "name": "Google Calendar",
+            "email": ""
+        },
+        "timestamp": "2026-01-23T22:45:48.486452",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "f90e54e0-22a0-4577-88d1-b47c5041e8fa",
+        "source": "calendar",
+        "type": "event",
+        "title": "Project Review",
+        "content": "Zoom Link",
+        "sender": {
+            "name": "Google Calendar",
+            "email": ""
+        },
+        "timestamp": "2026-01-23T17:45:48.486469",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "aa0a6f27-8201-48a4-a2b9-1698a747965a",
+        "source": "calendar",
+        "type": "event",
+        "title": "Project Review",
+        "content": "Zoom Link",
+        "sender": {
+            "name": "Google Calendar",
+            "email": ""
+        },
+        "timestamp": "2026-01-23T14:45:48.486465",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "47880758-c891-488c-9267-5cb3993b3fba",
+        "source": "discord",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Community Mgr",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T09:16:48.486540",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "128b108a-4695-4a5c-9dbd-4a17207a1584",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T09:03:48.486550",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "64494081-36c6-41d3-b76f-ba1318109f9e",
+        "source": "gmail",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T08:40:48.486536",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "490d2a74-39ad-412b-ba85-81bb0ada9905",
+        "source": "jira",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T08:27:48.486476",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "e2efe6e7-03f2-4e83-801b-6c36e2fefc35",
+        "source": "github",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T08:15:48.486488",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "979055a4-ccae-460e-ae0c-aa65747b67b6",
+        "source": "jira",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T07:02:48.486491",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "0ea80bb8-3c9c-421f-8ff9-ddf4b929a7b7",
+        "source": "github",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T04:49:48.486581",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "83bf2a54-476f-4408-bdae-03ef663a1e4b",
+        "source": "jira",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T04:29:48.486480",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "a15ce49a-55a6-4126-abf7-950c788509cc",
+        "source": "gmail",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-22T01:18:48.486484",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "081f5253-0900-44b7-bd0d-1af0d2c48ab0",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T21:50:48.486543",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "597ac12c-9005-45d0-9ef3-93d917b67b55",
+        "source": "github",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T19:50:48.486560",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "e35d0aca-186a-49a4-b670-0e42fb6661a8",
+        "source": "discord",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Community Mgr",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T18:00:48.486526",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "6e5dcdd3-1521-48f6-b708-a68b125f6012",
+        "source": "github",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T17:11:48.486530",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "b5c15671-ff25-4654-9655-fbbd1d5652a7",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T16:47:48.486502",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "40b3a0bc-5476-4151-b794-7b44078152d3",
+        "source": "gmail",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T14:55:48.486547",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "21238fc5-27f9-4aac-a530-d97a519714be",
+        "source": "github",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T13:37:48.486505",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "bfc2c8de-fff6-4818-b76d-2779ecba18bd",
+        "source": "github",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T11:24:48.486495",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "ee191c63-7a2d-4171-80ea-deabb5450d31",
+        "source": "discord",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Community Mgr",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T10:55:48.486564",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "353305cf-3641-446e-bfe0-1ee43bc97f00",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T10:23:48.486574",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "a234bc84-9de0-4ee9-bab0-adc59127279a",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T08:17:48.486533",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "d71f1b39-4c18-4f2a-a853-e6dba1857fe4",
+        "source": "discord",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Community Mgr",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T05:33:48.486498",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "7062a44d-ac05-49f5-a124-d358f0284eb9",
+        "source": "gmail",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T01:25:48.486509",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "ac5009c8-7807-445b-9210-ef63dd9523b3",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-21T00:54:48.486584",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "fb6e1093-a571-42d7-9e82-0eeb9a4dd41d",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T23:31:48.486513",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "99ecae20-90b3-480f-aabf-f8861217c463",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T23:05:48.486577",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "b583bd77-f461-41f3-addf-1239a4208b8c",
+        "source": "jira",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T18:44:48.486567",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "130f2f1d-1ee5-4535-be76-7c218c30e14c",
+        "source": "slack",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "DevOps Bot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T16:53:48.486520",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "827a6ef6-7b72-419e-a405-4013e320cb72",
+        "source": "jira",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T15:09:48.486557",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "d3f27d56-212e-4f40-a14a-a7425b75eae6",
+        "source": "jira",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T14:42:48.486516",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "037c2c01-73af-4f34-82c1-12c180e5dd74",
+        "source": "gmail",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "AWS Billing",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T13:33:48.486571",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "d5323830-b8d0-4fb5-95bd-45fa83e84c10",
+        "source": "jira",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Jira System",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T11:48:48.486554",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    },
+    {
+        "id": "a29ace6c-b4bd-4f13-b52a-cc07613ec11b",
+        "source": "github",
+        "type": "message",
+        "title": "Generic Update",
+        "content": "Just a normal message to fill the stream.",
+        "sender": {
+            "name": "Dependabot",
+            "email": ""
+        },
+        "timestamp": "2026-01-20T11:33:48.486523",
+        "priority": "low",
+        "priority_score": 10,
+        "priority_reasons": []
+    }
+]
